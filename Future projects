@@ -1,0 +1,12 @@
+Water meter pulse sensor
+  https://www.mysensors.org/build/pulse_water
+    - Use a NodeMCU instead for easier connection to HA
+
+###-------------------------------------------------------###
+
+Power meter pulse sensor
+  https://www.mysensors.org/build/pulse_power
+    - Use a NodeMCU instead for easier connection to HA
+
+###-------------------------------------------------------###
+
